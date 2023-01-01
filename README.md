@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on open source projects that enables machine learning commercialization 
 - 📫 no. just no. not yet. 
 
+
+algos are useless unless they trick down and *benefit* everyone's life. always happy to weave the threads together and open the baby up for interpretation. 
+
 <!---
 Damony01012023/Damony01012023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
